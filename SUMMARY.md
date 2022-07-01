@@ -1,6 +1,10 @@
 # Table of contents
 
+## 关于
+
 * [什么是iLogtail](README.md)
+* [Page 1](guan-yu/page-1.md)
+* [Page 2](guan-yu/page-2.md)
 
 ## Guides
 
